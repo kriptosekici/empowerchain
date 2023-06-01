@@ -90,5 +90,5 @@ journalctl -u empowerd -f
 
 ```sh
 # rues'i değiştirin.
-empowerd keys add rues
+empowerd keys add kriptosekici --recover
 ```
